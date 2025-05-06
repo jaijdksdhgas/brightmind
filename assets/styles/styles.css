@@ -3,11 +3,11 @@
 
 /* Section Styles */
 @import "navbar.css";
-@import "hero-banner.css";
 @import "services.css";
 @import "contact.css";
 @import "submission.css";
 @import "footer.css";
+@import "about.css";
 
 * {
   margin: 0;
